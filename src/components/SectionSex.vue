@@ -170,6 +170,7 @@ onMounted(() => {
     display: flex;
     justify-content: space-between;
     padding: 3rem 5rem;
+    margin-block-start: 10px;
     height: 80vh;
 }
 
